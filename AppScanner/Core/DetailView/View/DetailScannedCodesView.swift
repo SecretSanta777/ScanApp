@@ -1,10 +1,3 @@
-//
-//  DetailScannedCodesView.swift
-//  AppScanner
-//
-//  Created by Владимир Царь on 08.11.2025.
-//
-
 import SwiftUI
 
 struct DetailScannedCodesView: View {

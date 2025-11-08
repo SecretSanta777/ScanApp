@@ -1,11 +1,3 @@
-//
-//  QrCode+CoreDataClass.swift
-//  AppScanner
-//
-//  Created by Владимир Царь on 07.11.2025.
-//
-//
-
 import Foundation
 import CoreData
 

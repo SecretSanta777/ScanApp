@@ -1,10 +1,3 @@
-//
-//  CameraView.swift
-//  AppScanner
-//
-//  Created by Владимир Царь on 05.11.2025.
-//
-
 import SwiftUI
 import AVFoundation
 

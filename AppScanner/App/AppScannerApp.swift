@@ -1,10 +1,3 @@
-//
-//  AppScannerApp.swift
-//  AppScanner
-//
-//  Created by Владимир Царь on 04.11.2025.
-//
-
 import SwiftUI
 
 @main
